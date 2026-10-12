@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-recorder",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "record": "node capture_portrait.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
